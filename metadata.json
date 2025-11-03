@@ -1,0 +1,5 @@
+{
+  "name": "AI Productivity Score",
+  "description": "A state-of-the-art, minimal, beautiful web app that computes an AI-assisted Productivity Score, lets users post immediately (unverified), and optionally verify later to enter the ranked leaderboard.",
+  "requestFramePermissions": []
+}
